@@ -1,0 +1,15 @@
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaurant-Management-System.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaurant-Management-System.Application.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaurant-Management-System.Application.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaurant-Management-System.Application.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaurant-Management-System.Application.csproj.AssemblyReference.cache
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\bin\Debug\net8.0\Restaurant-Management-System.Application.deps.json
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\bin\Debug\net8.0\Restaurant-Management-System.Application.dll
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\bin\Debug\net8.0\Restaurant-Management-System.Application.pdb
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\bin\Debug\net8.0\Restaurant-Management-System.Domain.dll
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\bin\Debug\net8.0\Restaurant-Management-System.Domain.pdb
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaura.90AF351B.Up2Date
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaurant-Management-System.Application.dll
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\refint\Restaurant-Management-System.Application.dll
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\Restaurant-Management-System.Application.pdb
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Application\obj\Debug\net8.0\ref\Restaurant-Management-System.Application.dll

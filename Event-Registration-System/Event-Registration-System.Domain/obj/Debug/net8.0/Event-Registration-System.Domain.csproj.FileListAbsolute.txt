@@ -1,0 +1,11 @@
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\bin\Debug\net8.0\Event-Registration-System.Domain.deps.json
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\bin\Debug\net8.0\Event-Registration-System.Domain.dll
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\bin\Debug\net8.0\Event-Registration-System.Domain.pdb
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\Event-Registration-System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\Event-Registration-System.Domain.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\Event-Registration-System.Domain.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\Event-Registration-System.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\Event-Registration-System.Domain.dll
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\refint\Event-Registration-System.Domain.dll
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\Event-Registration-System.Domain.pdb
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Domain\obj\Debug\net8.0\ref\Event-Registration-System.Domain.dll

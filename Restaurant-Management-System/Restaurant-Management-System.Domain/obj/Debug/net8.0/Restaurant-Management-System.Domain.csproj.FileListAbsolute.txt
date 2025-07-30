@@ -1,0 +1,11 @@
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\Restaurant-Management-System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\Restaurant-Management-System.Domain.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\Restaurant-Management-System.Domain.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\Restaurant-Management-System.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\bin\Debug\net8.0\Restaurant-Management-System.Domain.deps.json
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\bin\Debug\net8.0\Restaurant-Management-System.Domain.dll
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\bin\Debug\net8.0\Restaurant-Management-System.Domain.pdb
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\Restaurant-Management-System.Domain.dll
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\refint\Restaurant-Management-System.Domain.dll
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\Restaurant-Management-System.Domain.pdb
+C:\Users\Faisal\source\repos\Restaurant-Management-System\Restaurant-Management-System.Domain\obj\Debug\net8.0\ref\Restaurant-Management-System.Domain.dll

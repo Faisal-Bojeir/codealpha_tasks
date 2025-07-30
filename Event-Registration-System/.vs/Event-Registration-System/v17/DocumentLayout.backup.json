@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\usecase\\userevent\\usereventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\usecase\\userevent\\usereventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|solutionrelative:event-registration-system.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|solutionrelative:event-registration-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\usecase\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\usecase\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system\\filters\\validateuseridattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|solutionrelative:event-registration-system\\filters\\validateuseridattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|solutionrelative:event-registration-system\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|solutionrelative:event-registration-system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\usecase\\event\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\usecase\\event\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.application\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|solutionrelative:event-registration-system.application\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE20FC9-8246-40D0-9CB5-990181EA9B46}|Event-Registration-System.Domain\\Event-Registration-System.Domain.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.domain\\entities\\enum\\enrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE20FC9-8246-40D0-9CB5-990181EA9B46}|Event-Registration-System.Domain\\Event-Registration-System.Domain.csproj|solutionrelative:event-registration-system.domain\\entities\\enum\\enrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|solutionrelative:event-registration-system\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\usecase\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\usecase\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.application\\usecase\\userevent\\iusereventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|solutionrelative:event-registration-system.application\\usecase\\userevent\\iusereventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.application\\common\\querystringparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1181B263-E5C8-4B8E-AAEE-6052741F7086}|Event-Registration-System.Application\\Event-Registration-System.Application.csproj|solutionrelative:event-registration-system.application\\common\\querystringparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\usecase\\auth\\authmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\usecase\\auth\\authmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\repository\\usereventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\repository\\usereventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\implementation\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\implementation\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36CEF627-FE98-4E78-A572-27BC65113691}|Event-Registration-System.Infrastructure\\Event-Registration-System.Infrastructure.csproj|solutionrelative:event-registration-system.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|solutionrelative:event-registration-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|c:\\users\\faisal\\source\\repos\\event-registration-system\\event-registration-system\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A32872-F14E-4588-8199-D4DB0BCDBFA9}|Event-Registration-System\\Event-Registration-System.csproj|solutionrelative:event-registration-system\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Event-Registration-System\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:38:36.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Event\\EventManagement.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Event\\EventManagement.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Event\\EventManagement.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Event\\EventManagement.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:46:15.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\Common\\Constants.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Application\\Common\\Constants.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\Common\\Constants.cs",
+              "RelativeToolTip": "Event-Registration-System.Application\\Common\\Constants.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:51:55.998Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Program.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System\\Program.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Program.cs",
+              "RelativeToolTip": "Event-Registration-System\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:06:53.913Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\ServiceExtensions.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:12:26.451Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Event-Registration-System\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:32:41.527Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\TokenService.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\TokenService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:15:37.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "enRole.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Domain\\Entities\\Enum\\enRole.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Domain\\Entities\\Enum\\enRole.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Domain\\Entities\\Enum\\enRole.cs",
+              "RelativeToolTip": "Event-Registration-System.Domain\\Entities\\Enum\\enRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:06:06.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserEventManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\UseCase\\UserEvent\\IUserEventManagement.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Application\\UseCase\\UserEvent\\IUserEventManagement.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\UseCase\\UserEvent\\IUserEventManagement.cs",
+              "RelativeToolTip": "Event-Registration-System.Application\\UseCase\\UserEvent\\IUserEventManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:58:18.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidateUserIdAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Filters\\ValidateUserIdAttribute.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System\\Filters\\ValidateUserIdAttribute.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Filters\\ValidateUserIdAttribute.cs",
+              "RelativeToolTip": "Event-Registration-System\\Filters\\ValidateUserIdAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:53:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Event-Registration-System\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:20:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QueryStringParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\Common\\QueryStringParameters.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Application\\Common\\QueryStringParameters.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\Common\\QueryStringParameters.cs",
+              "RelativeToolTip": "Event-Registration-System.Application\\Common\\QueryStringParameters.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:23:50.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\AuthMapper.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\AuthMapper.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\AuthMapper.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\AuthMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:13:12.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\Auth.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\Auth.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\Auth.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\Auth\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:13:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:09:40.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\Repository\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\Repository\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:09:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserEventRepository.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserEventRepository.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserEventRepository.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\Repository\\UserEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:59:58.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserEventManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\UserEvent\\UserEventManagement.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\UserEvent\\UserEventManagement.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Implementation\\UseCase\\UserEvent\\UserEventManagement.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Implementation\\UseCase\\UserEvent\\UserEventManagement.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:59:10.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Event-Registration-System.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:58:39.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\appsettings.json",
+              "RelativeDocumentMoniker": "Event-Registration-System\\appsettings.json",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\appsettings.json",
+              "RelativeToolTip": "Event-Registration-System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T14:57:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Event-Registration-System\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:44:53.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Event-Registration-System.Application\\Common\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Event-Registration-System\\Event-Registration-System.Application\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Event-Registration-System.Application\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:42:42.532Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

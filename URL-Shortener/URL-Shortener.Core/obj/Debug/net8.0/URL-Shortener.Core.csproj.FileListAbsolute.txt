@@ -1,0 +1,11 @@
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\bin\Debug\net8.0\URL-Shortener.Core.deps.json
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\bin\Debug\net8.0\URL-Shortener.Core.dll
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\bin\Debug\net8.0\URL-Shortener.Core.pdb
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\URL-Shortener.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\URL-Shortener.Core.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\URL-Shortener.Core.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\URL-Shortener.Core.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\URL-Shortener.Core.dll
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\refint\URL-Shortener.Core.dll
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\URL-Shortener.Core.pdb
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.Core\obj\Debug\net8.0\ref\URL-Shortener.Core.dll

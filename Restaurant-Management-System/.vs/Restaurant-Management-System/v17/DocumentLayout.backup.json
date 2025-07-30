@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|solutionrelative:restaurant-management-system\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|solutionrelative:restaurant-management-system\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|solutionrelative:restaurant-management-system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|solutionrelative:restaurant-management-system\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system\\controllers\\menuiteminventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|solutionrelative:restaurant-management-system\\controllers\\menuiteminventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system\\controllers\\inventoryitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CFF916-6BAC-47FD-9455-7C529A3CB98B}|Restaurant-Management-System\\Restaurant-Management-System.csproj|solutionrelative:restaurant-management-system\\controllers\\inventoryitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system.infrastructure\\implementation\\repository\\inventoryitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|solutionrelative:restaurant-management-system.infrastructure\\implementation\\repository\\inventoryitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system.infrastructure\\implementation\\usecase\\orders\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|solutionrelative:restaurant-management-system.infrastructure\\implementation\\usecase\\orders\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81612-ECC8-4E3B-8BFE-D0794AD76250}|Restaurant-Management-System.Application\\Restaurant-Management-System.Application.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system.application\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC81612-ECC8-4E3B-8BFE-D0794AD76250}|Restaurant-Management-System.Application\\Restaurant-Management-System.Application.csproj|solutionrelative:restaurant-management-system.application\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81612-ECC8-4E3B-8BFE-D0794AD76250}|Restaurant-Management-System.Application\\Restaurant-Management-System.Application.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system.application\\usecase\\orders\\iordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC81612-ECC8-4E3B-8BFE-D0794AD76250}|Restaurant-Management-System.Application\\Restaurant-Management-System.Application.csproj|solutionrelative:restaurant-management-system.application\\usecase\\orders\\iordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC81612-ECC8-4E3B-8BFE-D0794AD76250}|Restaurant-Management-System.Application\\Restaurant-Management-System.Application.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system.application\\usecase\\orders\\parameters\\salesreportqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC81612-ECC8-4E3B-8BFE-D0794AD76250}|Restaurant-Management-System.Application\\Restaurant-Management-System.Application.csproj|solutionrelative:restaurant-management-system.application\\usecase\\orders\\parameters\\salesreportqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system.infrastructure\\implementation\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|solutionrelative:restaurant-management-system.infrastructure\\implementation\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|c:\\users\\faisal\\source\\repos\\restaurant-management-system\\restaurant-management-system.infrastructure\\implementation\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917543B1-73AC-45DC-9CEA-EBC31AE7FA9A}|Restaurant-Management-System.Infrastructure\\Restaurant-Management-System.Infrastructure.csproj|solutionrelative:restaurant-management-system.infrastructure\\implementation\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TablesController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\TablesController.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System\\Controllers\\TablesController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\TablesController.cs",
+              "RelativeToolTip": "Restaurant-Management-System\\Controllers\\TablesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:41:33.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Restaurant-Management-System\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:40:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\MenuItemsController.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System\\Controllers\\MenuItemsController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\MenuItemsController.cs",
+              "RelativeToolTip": "Restaurant-Management-System\\Controllers\\MenuItemsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:39:50.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItemInventoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\MenuItemInventoriesController.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System\\Controllers\\MenuItemInventoriesController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\MenuItemInventoriesController.cs*",
+              "RelativeToolTip": "Restaurant-Management-System\\Controllers\\MenuItemInventoriesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:39:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\InventoryItemsController.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System\\Controllers\\InventoryItemsController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\InventoryItemsController.cs*",
+              "RelativeToolTip": "Restaurant-Management-System\\Controllers\\InventoryItemsController.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:38:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\InventoryItemRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\InventoryItemRepository.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\InventoryItemRepository.cs",
+              "RelativeToolTip": "Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\InventoryItemRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:56:05.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Application\\Common\\Constants.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System.Application\\Common\\Constants.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Application\\Common\\Constants.cs",
+              "RelativeToolTip": "Restaurant-Management-System.Application\\Common\\Constants.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:49:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Application\\UseCase\\Orders\\IOrderManagement.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System.Application\\UseCase\\Orders\\IOrderManagement.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Application\\UseCase\\Orders\\IOrderManagement.cs",
+              "RelativeToolTip": "Restaurant-Management-System.Application\\UseCase\\Orders\\IOrderManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:48:40.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Restaurant-Management-System\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:48:12.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\BaseRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:43:45.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Restaurant-Management-System.Infrastructure\\Implementation\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:29:38.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesReportQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Application\\UseCase\\Orders\\Parameters\\SalesReportQueryParameters.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System.Application\\UseCase\\Orders\\Parameters\\SalesReportQueryParameters.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Application\\UseCase\\Orders\\Parameters\\SalesReportQueryParameters.cs",
+              "RelativeToolTip": "Restaurant-Management-System.Application\\UseCase\\Orders\\Parameters\\SalesReportQueryParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:21:28.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\UseCase\\Orders\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "Restaurant-Management-System.Infrastructure\\Implementation\\UseCase\\Orders\\OrderManagement.cs",
+              "ToolTip": "C:\\Users\\Faisal\\source\\repos\\Restaurant-Management-System\\Restaurant-Management-System.Infrastructure\\Implementation\\UseCase\\Orders\\OrderManagement.cs",
+              "RelativeToolTip": "Restaurant-Management-System.Infrastructure\\Implementation\\UseCase\\Orders\\OrderManagement.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwDIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:20:54.281Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

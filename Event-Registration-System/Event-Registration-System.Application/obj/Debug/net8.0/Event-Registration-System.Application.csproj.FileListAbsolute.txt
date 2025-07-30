@@ -1,0 +1,15 @@
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\bin\Debug\net8.0\Event-Registration-System.Application.deps.json
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\bin\Debug\net8.0\Event-Registration-System.Application.dll
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\bin\Debug\net8.0\Event-Registration-System.Application.pdb
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\bin\Debug\net8.0\Event-Registration-System.Domain.dll
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\bin\Debug\net8.0\Event-Registration-System.Domain.pdb
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Registration-System.Application.csproj.AssemblyReference.cache
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Registration-System.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Registration-System.Application.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Registration-System.Application.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Registration-System.Application.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Re.AC16C906.Up2Date
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Registration-System.Application.dll
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\refint\Event-Registration-System.Application.dll
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\Event-Registration-System.Application.pdb
+C:\Users\Faisal\source\repos\Event-Registration-System\Event-Registration-System.Application\obj\Debug\net8.0\ref\Event-Registration-System.Application.dll

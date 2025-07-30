@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "URL_Shortener.Controllers.ShortenerLinksController",
+    "Method": "RedirectTo",
+    "RelativePath": "{code}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "URL_Shortener.Controllers.ShortenerLinksController",
+    "Method": "AddNewShortLink",
+    "RelativePath": "api/ShortenerLink/{code}/{originalUrl}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "originalUrl",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "URL_Shortener.Controllers.ShortenerLinksController",
+    "Method": "AddNewShortLink",
+    "RelativePath": "api/ShortenerLink/api/ShortenerLink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "URL_Shortener.EF.Dtos.NewShortLink.NewShortLinkDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "URL_Shortener.Controllers.ShortenerLinksController",
+    "Method": "GetOriginalLinkInfo",
+    "RelativePath": "api/ShortenerLink/api/ShortenerLink",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ShortenerCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

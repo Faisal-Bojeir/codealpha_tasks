@@ -1,0 +1,17 @@
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\bin\Debug\net8.0\URL-Shortener.EF.deps.json
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\bin\Debug\net8.0\URL-Shortener.EF.runtimeconfig.json
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\bin\Debug\net8.0\URL-Shortener.EF.dll
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\bin\Debug\net8.0\URL-Shortener.EF.pdb
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\bin\Debug\net8.0\URL-Shortener.Core.dll
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\bin\Debug\net8.0\URL-Shortener.Core.pdb
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.csproj.AssemblyReference.cache
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shor.2D0582B1.Up2Date
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.dll
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\refint\URL-Shortener.EF.dll
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.pdb
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\URL-Shortener.EF.genruntimeconfig.cache
+C:\Users\Faisal\source\repos\URL-Shortener\URL-Shortener.EF\obj\Debug\net8.0\ref\URL-Shortener.EF.dll
